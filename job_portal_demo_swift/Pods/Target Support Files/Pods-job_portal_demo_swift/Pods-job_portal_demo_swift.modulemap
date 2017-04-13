@@ -1,0 +1,6 @@
+framework module Pods_job_portal_demo_swift {
+  umbrella header "Pods-job_portal_demo_swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
